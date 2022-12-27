@@ -1,3 +1,9 @@
 1.12 廣播資料(Broadcast Message)
     目的端為MAC:FFFF.FFFF.FFFFF 或 IP:255.255.255.255 EX:在PC1下執行 ping 192.168.10.255
+    廣播區域(Broadcast domain)
+    路由器(Router)會阻擋廣播資料＜–—–＞可切割、規劃廣播區域。
     
+1.13 路由器(Router)
+    Router上的每一個網路連線埠就是一個獨立的廣播區域(Broadcast domain)
+    廣播區域(Broadcast domain) ＝ 網路區域(Network Segment)
+    ∴Router可以劃分網路區域
