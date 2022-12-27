@@ -1,1 +1,3 @@
-1個。12
+1.12 廣播資料(Broadcast Message)
+    目的端為MAC:FFFF.FFFF.FFFFF 或 IP:255.255.255.255 EX:在PC1下執行 ping 192.168.10.255
+    
